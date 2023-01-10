@@ -1,7 +1,7 @@
 # claro_project
-Apps para gestion de proyectos
+Apps para gestión de proyectos
 
-Claro Project se creo como una solucion a la gestios de proyectos.
+Claro Project se creo como una solucion a la gestión de proyectos.
 
 Consta de 2 aplicaciones:
 <br>
