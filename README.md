@@ -6,7 +6,7 @@ Descripción:
 Estructura de la Aplicación:
 Claro Project está compuesto por dos aplicaciones:
 
-App de Administración: https://claro-project-1f0a0.web.app/
+App de Administración:
 Esta aplicación permite a los administradores registrar nuevos proyectos y hacer un seguimiento detallado de su estado. Ofrece una interfaz sencilla y amigable para la visualización del progreso de cada proyecto.
 
 Funcionalidades:
@@ -16,7 +16,7 @@ Monitoreo en tiempo real del estado de cada proyecto.
 Panel de visualización de proyectos y sus etapas.
 URL: [App de Administrador](https://claro-project-1f0a0.web.app/)
 
-App de Desarrollador: https://prueba-1-a4fcf.web.app/
+App de Desarrollador:
 Esta aplicación está diseñada para los desarrolladores, permitiendo gestionar los proyectos a través de etapas que reflejan el avance en producción. Cada desarrollador puede actualizar el estado del proyecto y seguir el flujo de trabajo definido.
 
 Funcionalidades:
